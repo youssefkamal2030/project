@@ -1,2 +1,2 @@
 # project
-git course for alx 
+alx courses
